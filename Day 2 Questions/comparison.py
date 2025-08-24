@@ -1,3 +1,4 @@
+
 #Code to implement comparison operation on integers
 num1 = 30
 num2 = 35
@@ -7,3 +8,4 @@ elif num2 > num1:
     print("The second number is greater.")
 else:
     print("Both the numbers are equal.")
+
