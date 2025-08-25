@@ -1,4 +1,4 @@
-#Code to logoin using username and password
+#Code to login using username and password
 username = input("Enter the username:")
 password = input("Enter the password:")
 if username == "admin":
