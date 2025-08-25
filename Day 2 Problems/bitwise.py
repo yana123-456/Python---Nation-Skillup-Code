@@ -16,4 +16,8 @@ e = c ^ b
 f = a & b
 g = c | (a ^ a)
 e = ~e
-print(d,e,f,g)
+print(d)
+print(e)
+print(f)
+print(g)
+
